@@ -7,9 +7,10 @@ De esta máquina hice una plantilla del lateral con cartón y a partir de la pla
 He de resaltar que mi máquina es un poco más alta que la original.
 
 ![Recreativa original](./imagenes/IMAG0193.jpg "Recreativa original")
-
 > Recreativa original
 
-![Mi recreativa](./imagenes/IMAG0549.jpg "Mi recreativa")
 
+
+
+![Mi recreativa](./imagenes/IMAG0549.jpg "Mi recreativa")
 > Mi recreativa
