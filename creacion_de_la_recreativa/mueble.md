@@ -1,4 +1,5 @@
 # Mueble
+
 Para la construcción del mueble he utilizado tableros de aglomerado de melamina negra  de 19 mm de grueso.
 
 Los cantos han sido chapados con canto de PVC de color negro.
@@ -36,7 +37,6 @@ Para la puerta se ha utilizado una bisagra de piano.
 ![Puerta cerrada](../imagenes/IMAG0277.jpg "Puerta cerrada")
 >Puerta cerrada
 
-Para el panel de control también se ha utilizado una bisagra de piano.
+![Ruedas](../imagenes/IMAG0278.jpg "Ruedas")
+>Ruedas
 
-![Panel de control](../imagenes/IMAG0399.jpg "Panel de control")
->Panel de control

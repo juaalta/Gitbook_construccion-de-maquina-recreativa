@@ -1,1 +1,44 @@
-{}
+{
+    "plugins": [
+        "autocover"
+    ],
+    "autocover": {
+        "title": "Creación de una recreativa",
+        "author": "Juansal",
+        "font": {
+            "size": null,
+            "family": "Impact",
+            "color": "#FFF"
+        },
+        "size": {
+            "w": 1800,
+            "h": 2360
+        },
+        "background": {
+            "color": "#09F"
+        }
+    },
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "night",
+            "family": "sans"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Cosillas de Juansal": "http://www.juansal.com"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+    "pdf": {
+        "toc": true,
+        "pageNumbers": true,
+        "paperSize": "a4"
+    }
+}
