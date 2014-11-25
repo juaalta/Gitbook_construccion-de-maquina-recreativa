@@ -5,6 +5,7 @@
             "family": "sans"
         }
     },
+	
     "links": {
         "sidebar": {
             "Cosillas de Juansal": "http://www.juansal.com"
@@ -17,9 +18,11 @@
             "all": null
         }
     },
+	
     "pdf": {
         "toc": true,
         "pageNumbers": true,
         "paperSize": "a4"
     }
+	
 }
