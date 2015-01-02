@@ -21,8 +21,13 @@ Después de esto hice los agujeros del panel de control sobre un trodo de aglome
 ![Prueba panel de control](../imagenes/IMAG0392.jpg "Prueba panel de control")
 > Prueba panel de control
 
+Después de comprobar que estaba todo correcto hice los agujeros sobre el panel real.
+
+![Prueba panel de control](../imagenes/IMAG0401.jpg "Panel de control - Agujeros realizados")
+> Panel de control - Agujeros realizados
+
 Para el panel de control también se ha utilizado una bisagra de piano.
 
-![Panel de control](../imagenes/IMAG0399.jpg "Panel de control")
->Panel de control
+![Panel de control](../imagenes/IMAG0399.jpg "Panel de control – detalle bisagra")
+>Panel de control – detalle bisagra
 
