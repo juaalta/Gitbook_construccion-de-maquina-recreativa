@@ -1,4 +1,4 @@
-# Panel de Control
+# Los Controles
 
 Para el panel de control me basé en el siguiente modelo:
 
