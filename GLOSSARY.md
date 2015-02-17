@@ -1,6 +1,6 @@
 ## Marquesina
 
-Marquee
+Marquee.
 
 ## Bezel
 
