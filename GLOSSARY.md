@@ -1,6 +1,6 @@
 ## Marquesina
 
-Marquee.
+También nombrada como marquee.
 
 ## Bezel
 
