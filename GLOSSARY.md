@@ -1,6 +1,6 @@
 ## Marquesina
 
-También nombrada como marquee.
+Son piezas decorativas para la zona de superior del mueble o marquesina (marquee) arcade. Cuando este espacio contiene un tubo fluorescente, las decoraciones suelen ser impresas en un papel especial para ser retroiluminado conocido como "backlite".
 
 ## Bezel
 
