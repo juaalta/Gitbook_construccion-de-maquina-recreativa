@@ -8,15 +8,9 @@
 	
     "links": {
         "sidebar": {
-            "Cosillas de Juansal": "http://www.juansal.com"
-        },
-        "sharing": {
-            "google": null,
-            "facebook": null,
-            "twitter": null,
-            "weibo": null,
-            "all": null
-        }
+"Cosillas de Juansal": "http://www.juansal.com",
+"Cosillas de Juansal - Blog": "http://blog.juansal.com"
+}
     },
 	
     "pdf": {
