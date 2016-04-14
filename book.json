@@ -3,7 +3,11 @@
         "fontSettings": {
             "theme": "night",
             "family": "sans"
-        }
+        },
+            "image-captions": {
+          "caption": "Imagen _BOOK_IMAGE_NUMBER_ - _CAPTION_",
+          "variable_name": "pictures"
+      }
     },
 	
     "links": {
@@ -17,7 +21,11 @@
         "pageNumbers": true,
         "paperSize": "a4"
     },
-    "language": "es"
-    
-	
+    "language": "es",
+    "plugins": [
+        "image-captions"
+    ],
+    "variables": {
+        "pictures": []
+    }	
 }
