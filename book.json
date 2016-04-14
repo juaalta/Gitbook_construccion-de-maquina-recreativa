@@ -5,7 +5,7 @@
             "family": "sans"
         },
             "image-captions": {
-          "caption": "Imagen _BOOK_IMAGE_NUMBER_ - _CAPTION_",
+          "caption": "_CAPTION_",
           "variable_name": "pictures"
       }
     },
