@@ -25,12 +25,10 @@ He empezado por la parte de abajo, que es la que más clara tenía.
 Después he montado la balda sobre la que se apoyará el monitor y los cristales del bezel.
 
 ![Mueble_05](../imagenes/Mueble_05.jpg "Montaje, parte trasera")
-> Montaje, parte trasera
 
 He acabado con la parte de arriba, que es la que menos clara tenía.
 
 ![Mueble_06](../imagenes/Mueble_06.jpg "Montaje, frontal")
-> Montaje, frontal
 
 Para la puerta he utilizado una bisagra de piano, la cual da robustez a la puerta.
 
