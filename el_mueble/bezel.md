@@ -7,8 +7,6 @@ El agujero del monitor lo he hecho exactamente en el centro de la chapa y es del
 Se ha dejado una pequeña solapa de cartulina dentro del agujero del monitor para que no se vea el marco de este.
 
 ![Mueble_22](../imagenes/Mueble_22.jpg "Bezel con la parte de abajo forrada")
-> Bezel con la parte de abajo forrada
-
 
 ![Mueble_23](../imagenes/Mueble_23.jpg "Bezel acabado y montado")
-> Bezel acabado y montado
+
