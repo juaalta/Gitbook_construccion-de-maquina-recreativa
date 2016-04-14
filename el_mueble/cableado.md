@@ -1,6 +1,7 @@
 # Cableado
 
-Para el cableado de la máquina he usado 2 tipos de cable.
+Para el cableado de la máquina he usado 2 tipos de cable:
+
 * Manguera de 3 hilos.
  * Entrada de alimentación eléctrica hasta la regleta.
  * Alimentación luz marquesina.
@@ -14,20 +15,12 @@ El resto de componentes de la máquina que requieren alimentación  lo hacen dir
 Gran parte de los cables han sido puestos dentro de regletas de luz, separando los que van a 220v., del resto.
 
 ![Mueble_14](../imagenes/Mueble_14.jpg "Entrada luz, subida alimentación marquesina, alimentación ventiladores y cables altavoces")
-> Entrada luz, subida alimentación marquesina, alimentación ventiladores y cables altavoces
-
 
 ![Mueble_15](../imagenes/Mueble_15.jpg "Alimentación regleta, subida alimentación marquesina, cables conectados a ordenador")
-> Alimentación regleta, subida alimentación marquesina, cables conectados a ordenador
-
 
 ![Mueble_16](../imagenes/Mueble_16.jpg "Detalle cable botón encendido monitor")
-> Detalle cable botón encendido monitor
-
 
 ![Mueble_17](../imagenes/Mueble_17.jpg "Cables conectados a IPAC, alimentación luces, botones mapeados del ordenador y del monitor")
-> Cables conectados a IPAC, alimentación luces, botones mapeados del ordenador y del monitor
-
 
 ![Mueble_18](../imagenes/Mueble_18.jpg "Detalle cables conectados al PC")
-> Detalle cables conectados al PC
+
