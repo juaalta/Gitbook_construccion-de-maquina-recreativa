@@ -8,9 +8,6 @@ He de resaltar que mi máquina es un poco más alta que la original, le di 10 cm
 
 
 ![Introduccion_01](./imagenes/Introduccion_01.jpg "Recreativa original")
-> Recreativa original
-
-
 
 ![Introduccion_02](./imagenes/Introduccion_02.jpg "Mi recreativa")
-> Mi recreativa
+
