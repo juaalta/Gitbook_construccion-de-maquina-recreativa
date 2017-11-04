@@ -1,4 +1,7 @@
 {
+    "title": "La máquina arcade de Juansal",
+    "author": "Juan Salvador Aleixandre Talens",
+    "language": "es",
     "pluginsConfig": {
         "fontSettings": {
             "theme": "night",
@@ -21,7 +24,6 @@
         "pageNumbers": true,
         "paperSize": "a4"
     },
-    "language": "es",
     "plugins": [
         "image-captions"
     ],
